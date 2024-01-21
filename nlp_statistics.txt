@@ -1,0 +1,900 @@
+URL: https://www.1mg.com/1
+Number of Sentences: 4
+Number of Words: 881
+Average Word Length: 16.68
+Lexical Diversity: 79.11%
+Common Words: [('skin', 9), ('health', 9), ('care', 8), ('10pm', 7), ('collagen', 6)]
+Percentage of Stop Words: 7.60%
+Noun Count: 471
+
+URL: https://www.1mg.com/2
+Number of Sentences: 56
+Number of Words: 1574
+Average Word Length: 5.52
+Lexical Diversity: 37.61%
+Common Words: [('lab', 36), ('1mg', 30), ('tests', 28), ('test', 19), ('health', 17)]
+Percentage of Stop Words: 34.50%
+Noun Count: 533
+
+URL: https://www.1mg.com/3
+Number of Sentences: 1
+Number of Words: 17
+Average Word Length: 7.65
+Lexical Diversity: 94.12%
+Common Words: [('doctor', 2), ('online', 1), ('consultation', 1), ('india', 1), ('247', 1)]
+Percentage of Stop Words: 5.88%
+Noun Count: 11
+
+URL: https://www.1mg.com/4
+Number of Sentences: 29
+Number of Words: 1033
+Average Word Length: 7.65
+Lexical Diversity: 61.76%
+Common Words: [('cancer', 39), ('care', 17), ('support', 14), ('ngos', 11), ('health', 10)]
+Percentage of Stop Words: 21.01%
+Noun Count: 471
+
+URL: https://www.1mg.com/5
+Number of Sentences: 35
+Number of Words: 1527
+Average Word Length: 11.88
+Lexical Diversity: 60.12%
+Common Words: [('also', 20), ('known', 19), ('health', 13), ('ayurvedic', 10), ('used', 10)]
+Percentage of Stop Words: 25.28%
+Noun Count: 614
+
+URL: https://www.1mg.com/6
+Number of Sentences: 70
+Number of Words: 1780
+Average Word Length: 9.28
+Lexical Diversity: 47.25%
+Common Words: [('plan', 28), ('free', 16), ('get', 14), ('care', 14), ('membership', 12)]
+Percentage of Stop Words: 31.40%
+Noun Count: 699
+
+URL: https://www.1mg.com/7
+Number of Sentences: 21
+Number of Words: 1219
+Average Word Length: 13.39
+Lexical Diversity: 61.44%
+Common Words: [('24offer', 23), ('jan', 21), ('health', 18), ('detailsget', 13), ('extra', 12)]
+Percentage of Stop Words: 17.97%
+Noun Count: 567
+
+URL: https://www.1mg.com/8
+Number of Sentences: 4
+Number of Words: 477
+Average Word Length: 10.32
+Lexical Diversity: 84.28%
+Common Words: [('care', 10), ('careayurveda', 7), ('health', 7), ('skin', 4), ('joint', 4)]
+Percentage of Stop Words: 7.76%
+Noun Count: 248
+
+URL: https://www.1mg.com/9
+Number of Sentences: 1
+Number of Words: 6
+Average Word Length: 5.50
+Lexical Diversity: 100.00%
+Common Words: [('order', 1), ('prescription', 1), ('1mg1mg', 1), ('new', 1), ('app', 1)]
+Percentage of Stop Words: 16.67%
+Noun Count: 3
+
+URL: https://www.1mg.com/10
+Number of Sentences: 17
+Number of Words: 1047
+Average Word Length: 14.81
+Lexical Diversity: 73.83%
+Common Words: [('health', 12), ('care', 6), ('1mg', 6), ('careayurveda', 5), ('lab', 5)]
+Percentage of Stop Words: 18.91%
+Noun Count: 479
+
+URL: https://www.1mg.com/11
+Number of Sentences: 16
+Number of Words: 1167
+Average Word Length: 15.08
+Lexical Diversity: 69.84%
+Common Words: [('requiredstrip', 18), ('health', 11), ('india', 11), ('10', 11), ('pharmaceuticals', 10)]
+Percentage of Stop Words: 12.34%
+Noun Count: 569
+
+URL: https://www.1mg.com/12
+Number of Sentences: 16
+Number of Words: 1591
+Average Word Length: 14.30
+Lexical Diversity: 69.89%
+Common Words: [('anti', 29), ('combined', 15), ('antagonists', 13), ('excluding', 12), ('health', 11)]
+Percentage of Stop Words: 13.14%
+Noun Count: 744
+
+URL: https://www.1mg.com/13
+Number of Sentences: 16
+Number of Words: 1822
+Average Word Length: 11.83
+Lexical Diversity: 61.03%
+Common Words: [('1mg', 25), ('health', 21), ('care', 20), ('immunity', 19), ('vitamin', 14)]
+Percentage of Stop Words: 12.84%
+Noun Count: 896
+
+URL: https://www.1mg.com/14
+Number of Sentences: 17
+Number of Words: 1956
+Average Word Length: 11.54
+Lexical Diversity: 57.16%
+Common Words: [('immunity', 21), ('1mg', 20), ('vitamin', 20), ('care', 19), ('energy', 16)]
+Percentage of Stop Words: 13.70%
+Noun Count: 927
+
+URL: https://www.1mg.com/15
+Number of Sentences: 18
+Number of Words: 1865
+Average Word Length: 11.73
+Lexical Diversity: 54.16%
+Common Words: [('immunity', 36), ('multivitamin', 31), ('60', 20), ('care', 19), ('tabletbottle', 18)]
+Percentage of Stop Words: 14.26%
+Noun Count: 889
+
+URL: https://www.1mg.com/16
+Number of Sentences: 16
+Number of Words: 1547
+Average Word Length: 12.50
+Lexical Diversity: 61.86%
+Common Words: [('d3', 24), ('vitamin', 20), ('health', 14), ('oral', 14), ('gelatin', 13)]
+Percentage of Stop Words: 13.06%
+Noun Count: 734
+
+URL: https://www.1mg.com/17
+Number of Sentences: 17
+Number of Words: 1703
+Average Word Length: 12.13
+Lexical Diversity: 59.25%
+Common Words: [('vitamin', 31), ('c', 28), ('care', 20), ('skin', 19), ('health', 17)]
+Percentage of Stop Words: 13.09%
+Noun Count: 824
+
+URL: https://www.1mg.com/18
+Number of Sentences: 18
+Number of Words: 1663
+Average Word Length: 12.37
+Lexical Diversity: 61.82%
+Common Words: [('1mg', 20), ('care', 20), ('health', 19), ('15', 15), ('60', 15)]
+Percentage of Stop Words: 14.01%
+Noun Count: 820
+
+URL: https://www.1mg.com/19
+Number of Sentences: 16
+Number of Words: 1583
+Average Word Length: 12.50
+Lexical Diversity: 59.51%
+Common Words: [('calcium', 26), ('vitamin', 25), ('15', 23), ('tabletstrip', 20), ('1mg', 19)]
+Percentage of Stop Words: 14.47%
+Noun Count: 792
+
+URL: https://www.1mg.com/20
+Number of Sentences: 17
+Number of Words: 1455
+Average Word Length: 13.09
+Lexical Diversity: 65.36%
+Common Words: [('vitamin', 19), ('b12', 18), ('tabletstrip', 14), ('1mg', 13), ('30', 12)]
+Percentage of Stop Words: 12.85%
+Noun Count: 732
+
+URL: https://www.1mg.com/21
+Number of Sentences: 16
+Number of Words: 1773
+Average Word Length: 11.96
+Lexical Diversity: 60.24%
+Common Words: [('1mg', 19), ('care', 19), ('health', 16), ('vitamin', 16), ('immunity', 14)]
+Percentage of Stop Words: 12.86%
+Noun Count: 864
+
+URL: https://www.1mg.com/22
+Number of Sentences: 16
+Number of Words: 1990
+Average Word Length: 11.34
+Lexical Diversity: 53.17%
+Common Words: [('gm', 47), ('flavour', 42), ('400', 35), ('powder', 32), ('care', 30)]
+Percentage of Stop Words: 12.71%
+Noun Count: 1012
+
+URL: https://www.1mg.com/23
+Number of Sentences: 16
+Number of Words: 1830
+Average Word Length: 11.68
+Lexical Diversity: 54.75%
+Common Words: [('gm', 38), ('flavour', 28), ('care', 26), ('400', 25), ('powder', 24)]
+Percentage of Stop Words: 12.46%
+Noun Count: 950
+
+URL: https://www.1mg.com/24
+Number of Sentences: 16
+Number of Words: 1888
+Average Word Length: 11.41
+Lexical Diversity: 50.32%
+Common Words: [('nutrition', 47), ('gm', 42), ('health', 41), ('flavour', 37), ('drink', 32)]
+Percentage of Stop Words: 14.57%
+Noun Count: 986
+
+URL: https://www.1mg.com/25
+Number of Sentences: 17
+Number of Words: 1776
+Average Word Length: 11.71
+Lexical Diversity: 53.04%
+Common Words: [('gm', 43), ('protein', 40), ('flavour', 39), ('nutrition', 17), ('400', 17)]
+Percentage of Stop Words: 13.46%
+Noun Count: 907
+
+URL: https://www.1mg.com/26
+Number of Sentences: 16
+Number of Words: 1597
+Average Word Length: 12.44
+Lexical Diversity: 63.87%
+Common Words: [('soft', 21), ('care', 20), ('gelatin', 16), ('health', 12), ('naturals', 12)]
+Percentage of Stop Words: 11.65%
+Noun Count: 761
+
+URL: https://www.1mg.com/27
+Number of Sentences: 16
+Number of Words: 1300
+Average Word Length: 13.67
+Lexical Diversity: 66.00%
+Common Words: [('foods', 36), ('availablenow', 26), ('capsulebottle', 19), ('veg', 12), ('health', 11)]
+Percentage of Stop Words: 12.38%
+Noun Count: 622
+
+URL: https://www.1mg.com/28
+Number of Sentences: 16
+Number of Words: 1331
+Average Word Length: 13.69
+Lexical Diversity: 65.44%
+Common Words: [('availablesolgar', 26), ('care', 19), ('capsulebottle', 16), ('100', 15), ('vegetable', 15)]
+Percentage of Stop Words: 12.02%
+Noun Count: 651
+
+URL: https://www.1mg.com/29
+Number of Sentences: 16
+Number of Words: 1537
+Average Word Length: 12.34
+Lexical Diversity: 56.08%
+Common Words: [('naturals', 43), ('soft', 43), ('omega', 37), ('3', 28), ('gelatin', 27)]
+Percentage of Stop Words: 12.10%
+Noun Count: 672
+
+URL: https://www.1mg.com/30
+Number of Sentences: 20
+Number of Words: 1977
+Average Word Length: 11.44
+Lexical Diversity: 55.54%
+Common Words: [('health', 28), ('gelatin', 21), ('heart', 21), ('care', 20), ('60', 20)]
+Percentage of Stop Words: 12.75%
+Noun Count: 962
+
+URL: https://www.1mg.com/31
+Number of Sentences: 57
+Number of Words: 1629
+Average Word Length: 12.15
+Lexical Diversity: 62.43%
+Common Words: [('morepen', 41), ('60', 24), ('care', 19), ('health', 14), ('gelatin', 11)]
+Percentage of Stop Words: 12.15%
+Noun Count: 796
+
+URL: https://www.1mg.com/32
+Number of Sentences: 17
+Number of Words: 1210
+Average Word Length: 13.79
+Lexical Diversity: 63.80%
+Common Words: [('gummies', 34), ('health', 15), ('care', 13), ('60', 12), ('pack', 12)]
+Percentage of Stop Words: 14.88%
+Noun Count: 589
+
+URL: https://www.1mg.com/33
+Number of Sentences: 18
+Number of Words: 1713
+Average Word Length: 11.81
+Lexical Diversity: 57.38%
+Common Words: [('1mg', 56), ('vitamin', 26), ('60', 22), ('care', 17), ('zinc', 17)]
+Percentage of Stop Words: 13.19%
+Noun Count: 831
+
+URL: https://www.1mg.com/34
+Number of Sentences: 18
+Number of Words: 1851
+Average Word Length: 11.58
+Lexical Diversity: 52.24%
+Common Words: [('vitals', 34), ('hk', 31), ('health', 23), ('gelatin', 21), ('60', 21)]
+Percentage of Stop Words: 12.43%
+Noun Count: 906
+
+URL: https://www.1mg.com/35
+Number of Sentences: 17
+Number of Words: 1733
+Average Word Length: 11.96
+Lexical Diversity: 56.03%
+Common Words: [('forte', 48), ('tabletbottle', 27), ('health', 23), ('skin', 18), ('care', 18)]
+Percentage of Stop Words: 13.16%
+Noun Count: 833
+
+URL: https://www.1mg.com/36
+Number of Sentences: 17
+Number of Words: 1642
+Average Word Length: 12.25
+Lexical Diversity: 54.81%
+Common Words: [('ultiboost', 33), ('30', 21), ('care', 19), ('tablet', 16), ('health', 15)]
+Percentage of Stop Words: 13.28%
+Noun Count: 782
+
+URL: https://www.1mg.com/37
+Number of Sentences: 17
+Number of Words: 1580
+Average Word Length: 12.36
+Lexical Diversity: 54.56%
+Common Words: [('multivitamin', 19), ('immunity', 18), ('health', 17), ('care', 14), ('60', 14)]
+Percentage of Stop Words: 14.75%
+Noun Count: 743
+
+URL: https://www.1mg.com/38
+Number of Sentences: 16
+Number of Words: 2108
+Average Word Length: 11.01
+Lexical Diversity: 50.71%
+Common Words: [('protein', 54), ('flavour', 38), ('powder', 32), ('whey', 29), ('muscle', 25)]
+Percentage of Stop Words: 12.29%
+Noun Count: 1072
+
+URL: https://www.1mg.com/39
+Number of Sentences: 16
+Number of Words: 2023
+Average Word Length: 11.09
+Lexical Diversity: 47.26%
+Common Words: [('protein', 68), ('whey', 54), ('powder', 53), ('flavour', 44), ('muscle', 32)]
+Percentage of Stop Words: 13.30%
+Noun Count: 1049
+
+URL: https://www.1mg.com/40
+Number of Sentences: 17
+Number of Words: 1409
+Average Word Length: 13.51
+Lexical Diversity: 69.48%
+Common Words: [('10', 16), ('health', 12), ('gm', 11), ('tabletstrip', 11), ('1mg', 9)]
+Percentage of Stop Words: 12.99%
+Noun Count: 709
+
+URL: https://www.1mg.com/41
+Number of Sentences: 17
+Number of Words: 1680
+Average Word Length: 11.96
+Lexical Diversity: 54.52%
+Common Words: [('flavour', 34), ('gainer', 33), ('mass', 26), ('powder', 23), ('kg', 22)]
+Percentage of Stop Words: 13.57%
+Noun Count: 832
+
+URL: https://www.1mg.com/42
+Number of Sentences: 16
+Number of Words: 1730
+Average Word Length: 12.03
+Lexical Diversity: 58.21%
+Common Words: [('gm', 21), ('care', 19), ('muscle', 19), ('soft', 17), ('gelatin', 17)]
+Percentage of Stop Words: 12.49%
+Noun Count: 879
+
+URL: https://www.1mg.com/43
+Number of Sentences: 16
+Number of Words: 1456
+Average Word Length: 13.06
+Lexical Diversity: 62.50%
+Common Words: [('fat', 27), ('60', 26), ('capsulebottle', 23), ('burner', 17), ('metabolism', 12)]
+Percentage of Stop Words: 12.71%
+Noun Count: 736
+
+URL: https://www.1mg.com/44
+Number of Sentences: 16
+Number of Words: 1863
+Average Word Length: 11.64
+Lexical Diversity: 60.23%
+Common Words: [('gm', 33), ('protein', 20), ('care', 18), ('flavour', 16), ('1', 16)]
+Percentage of Stop Words: 12.02%
+Noun Count: 921
+
+URL: https://www.1mg.com/45
+Number of Sentences: 16
+Number of Words: 1901
+Average Word Length: 11.29
+Lexical Diversity: 53.92%
+Common Words: [('tea', 82), ('green', 44), ('25', 30), ('india', 26), ('care', 21)]
+Percentage of Stop Words: 11.78%
+Noun Count: 1024
+
+URL: https://www.1mg.com/46
+Number of Sentences: 16
+Number of Words: 1809
+Average Word Length: 11.60
+Lexical Diversity: 60.75%
+Common Words: [('gm', 32), ('protein', 29), ('1', 17), ('flavour', 15), ('health', 14)]
+Percentage of Stop Words: 11.83%
+Noun Count: 894
+
+URL: https://www.1mg.com/47
+Number of Sentences: 17
+Number of Words: 1838
+Average Word Length: 11.68
+Lexical Diversity: 55.33%
+Common Words: [('flavour', 36), ('drink', 29), ('ml', 25), ('energy', 25), ('200', 22)]
+Percentage of Stop Words: 12.89%
+Noun Count: 932
+
+URL: https://www.1mg.com/48
+Number of Sentences: 19
+Number of Words: 1766
+Average Word Length: 11.80
+Lexical Diversity: 53.28%
+Common Words: [('cider', 56), ('vinegar', 56), ('apple', 54), ('mother', 28), ('ml', 27)]
+Percentage of Stop Words: 14.55%
+Noun Count: 865
+
+URL: https://www.1mg.com/49
+Number of Sentences: 16
+Number of Words: 1706
+Average Word Length: 11.84
+Lexical Diversity: 61.02%
+Common Words: [('gm', 35), ('dry', 20), ('care', 19), ('protein', 19), ('nuts', 16)]
+Percentage of Stop Words: 11.31%
+Noun Count: 833
+
+URL: https://www.1mg.com/50
+Number of Sentences: 18
+Number of Words: 1441
+Average Word Length: 13.25
+Lexical Diversity: 63.84%
+Common Words: [('gm', 31), ('chyawanprash', 19), ('kg', 17), ('health', 14), ('1', 13)]
+Percentage of Stop Words: 11.94%
+Noun Count: 745
+
+URL: https://www.1mg.com/51
+Number of Sentences: 21
+Number of Words: 2059
+Average Word Length: 10.92
+Lexical Diversity: 51.04%
+Common Words: [('omega', 45), ('oil', 44), ('gelatin', 42), ('soft', 41), ('3', 39)]
+Percentage of Stop Words: 11.95%
+Noun Count: 951
+
+URL: https://www.1mg.com/52
+Number of Sentences: 21
+Number of Words: 1917
+Average Word Length: 11.09
+Lexical Diversity: 49.97%
+Common Words: [('gelatin', 51), ('soft', 50), ('fish', 48), ('oil', 47), ('omega', 41)]
+Percentage of Stop Words: 11.63%
+Noun Count: 871
+
+URL: https://www.1mg.com/53
+Number of Sentences: 20
+Number of Words: 1586
+Average Word Length: 12.16
+Lexical Diversity: 57.69%
+Common Words: [('liver', 38), ('oil', 35), ('cod', 34), ('gelatin', 30), ('soft', 29)]
+Percentage of Stop Words: 13.05%
+Noun Count: 768
+
+URL: https://www.1mg.com/54
+Number of Sentences: 16
+Number of Words: 1520
+Average Word Length: 12.48
+Lexical Diversity: 60.72%
+Common Words: [('flaxseed', 27), ('oil', 26), ('60', 23), ('soft', 22), ('gelatin', 20)]
+Percentage of Stop Words: 11.45%
+Noun Count: 712
+
+URL: https://www.1mg.com/55
+Number of Sentences: 16
+Number of Words: 1699
+Average Word Length: 12.41
+Lexical Diversity: 64.80%
+Common Words: [('care', 19), ('60', 19), ('health', 18), ('1mg', 15), ('hair', 11)]
+Percentage of Stop Words: 12.83%
+Noun Count: 810
+
+URL: https://www.1mg.com/56
+Number of Sentences: 16
+Number of Words: 1516
+Average Word Length: 12.95
+Lexical Diversity: 65.83%
+Common Words: [('health', 25), ('care', 21), ('10', 19), ('gut', 18), ('probiotic', 17)]
+Percentage of Stop Words: 13.06%
+Noun Count: 741
+
+URL: https://www.1mg.com/57
+Number of Sentences: 16
+Number of Words: 1563
+Average Word Length: 12.81
+Lexical Diversity: 62.25%
+Common Words: [('glucosamine', 26), ('60', 18), ('10', 17), ('health', 16), ('1mg', 15)]
+Percentage of Stop Words: 12.67%
+Noun Count: 758
+
+URL: https://www.1mg.com/58
+Number of Sentences: 17
+Number of Words: 1828
+Average Word Length: 11.70
+Lexical Diversity: 54.87%
+Common Words: [('collagen', 47), ('skin', 39), ('gm', 20), ('health', 18), ('care', 17)]
+Percentage of Stop Words: 12.75%
+Noun Count: 937
+
+URL: https://www.1mg.com/59
+Number of Sentences: 17
+Number of Words: 1586
+Average Word Length: 12.56
+Lexical Diversity: 64.00%
+Common Words: [('care', 19), ('60', 18), ('skin', 17), ('health', 15), ('vitamin', 13)]
+Percentage of Stop Words: 12.61%
+Noun Count: 772
+
+URL: https://www.1mg.com/60
+Number of Sentences: 17
+Number of Words: 1636
+Average Word Length: 12.33
+Lexical Diversity: 57.33%
+Common Words: [('biotin', 47), ('hair', 39), ('skin', 22), ('health', 21), ('60', 21)]
+Percentage of Stop Words: 13.88%
+Noun Count: 806
+
+URL: https://www.1mg.com/61
+Number of Sentences: 17
+Number of Words: 1856
+Average Word Length: 11.71
+Lexical Diversity: 57.87%
+Common Words: [('care', 22), ('immunity', 22), ('1mg', 18), ('health', 17), ('nutrition', 16)]
+Percentage of Stop Words: 13.25%
+Noun Count: 914
+
+URL: https://www.1mg.com/62
+Number of Sentences: 16
+Number of Words: 1872
+Average Word Length: 11.56
+Lexical Diversity: 53.79%
+Common Words: [('nutrition', 38), ('gm', 37), ('health', 36), ('flavour', 26), ('kids', 25)]
+Percentage of Stop Words: 14.10%
+Noun Count: 968
+
+URL: https://www.1mg.com/63
+Number of Sentences: 16
+Number of Words: 1823
+Average Word Length: 11.65
+Lexical Diversity: 54.03%
+Common Words: [('gm', 32), ('care', 24), ('health', 23), ('flavour', 23), ('400', 23)]
+Percentage of Stop Words: 13.00%
+Noun Count: 936
+
+URL: https://www.1mg.com/64
+Number of Sentences: 18
+Number of Words: 1808
+Average Word Length: 11.74
+Lexical Diversity: 56.19%
+Common Words: [('care', 20), ('vitamin', 19), ('health', 18), ('capsule', 18), ('vegetarian', 17)]
+Percentage of Stop Words: 13.22%
+Noun Count: 874
+
+URL: https://www.1mg.com/65
+Number of Sentences: 16
+Number of Words: 1624
+Average Word Length: 12.31
+Lexical Diversity: 58.99%
+Common Words: [('sports', 38), ('60', 19), ('care', 18), ('health', 17), ('herb', 14)]
+Percentage of Stop Words: 12.81%
+Noun Count: 822
+
+URL: https://www.1mg.com/66
+Number of Sentences: 17
+Number of Words: 1731
+Average Word Length: 11.98
+Lexical Diversity: 56.21%
+Common Words: [('women', 26), ('health', 21), ('care', 20), ('immunity', 20), ('gm', 17)]
+Percentage of Stop Words: 13.98%
+Noun Count: 843
+
+URL: https://www.1mg.com/67
+Number of Sentences: 17
+Number of Words: 1631
+Average Word Length: 12.51
+Lexical Diversity: 64.87%
+Common Words: [('tabletstrip', 22), ('10', 20), ('care', 19), ('health', 15), ('nutrition', 12)]
+Percentage of Stop Words: 13.24%
+Noun Count: 811
+
+URL: https://www.1mg.com/68
+Number of Sentences: 16
+Number of Words: 1811
+Average Word Length: 11.91
+Lexical Diversity: 60.68%
+Common Words: [('immunity', 20), ('care', 19), ('1mg', 17), ('health', 15), ('15', 11)]
+Percentage of Stop Words: 13.20%
+Noun Count: 857
+
+URL: https://www.1mg.com/69
+Number of Sentences: 17
+Number of Words: 1720
+Average Word Length: 12.16
+Lexical Diversity: 61.98%
+Common Words: [('care', 23), ('1mg', 16), ('weight', 14), ('free', 13), ('management', 12)]
+Percentage of Stop Words: 12.33%
+Noun Count: 843
+
+URL: https://www.1mg.com/70
+Number of Sentences: 16
+Number of Words: 1914
+Average Word Length: 11.58
+Lexical Diversity: 58.31%
+Common Words: [('immunity', 22), ('1mg', 20), ('care', 19), ('health', 17), ('tablet', 16)]
+Percentage of Stop Words: 13.58%
+Noun Count: 914
+
+URL: https://www.1mg.com/71
+Number of Sentences: 18
+Number of Words: 1925
+Average Word Length: 11.33
+Lexical Diversity: 53.19%
+Common Words: [('energy', 36), ('immunity', 26), ('multivitamin', 24), ('zinc', 20), ('care', 18)]
+Percentage of Stop Words: 14.34%
+Noun Count: 941
+
+URL: https://www.1mg.com/72
+Number of Sentences: 16
+Number of Words: 1934
+Average Word Length: 11.54
+Lexical Diversity: 60.13%
+Common Words: [('immunity', 23), ('1mg', 19), ('vitamin', 19), ('care', 18), ('health', 15)]
+Percentage of Stop Words: 12.98%
+Noun Count: 938
+
+URL: https://www.1mg.com/73
+Number of Sentences: 16
+Number of Words: 1736
+Average Word Length: 12.10
+Lexical Diversity: 60.48%
+Common Words: [('skin', 24), ('vitamin', 23), ('care', 19), ('health', 18), ('hair', 16)]
+Percentage of Stop Words: 13.19%
+Noun Count: 847
+
+URL: https://www.1mg.com/74
+Number of Sentences: 18
+Number of Words: 1466
+Average Word Length: 12.94
+Lexical Diversity: 64.12%
+Common Words: [('sleep', 40), ('melatonin', 24), ('60', 19), ('health', 16), ('30', 16)]
+Percentage of Stop Words: 12.82%
+Noun Count: 668
+
+URL: https://www.1mg.com/75
+Number of Sentences: 17
+Number of Words: 1875
+Average Word Length: 11.44
+Lexical Diversity: 53.92%
+Common Words: [('joint', 27), ('calcium', 24), ('tablet', 21), ('immunity', 20), ('bones', 20)]
+Percentage of Stop Words: 14.51%
+Noun Count: 912
+
+URL: https://www.1mg.com/76
+Number of Sentences: 17
+Number of Words: 1898
+Average Word Length: 11.50
+Lexical Diversity: 61.96%
+Common Words: [('gm', 32), ('ml', 28), ('care', 24), ('skin', 23), ('hair', 14)]
+Percentage of Stop Words: 12.54%
+Noun Count: 890
+
+URL: https://www.1mg.com/77
+Number of Sentences: 19
+Number of Words: 1523
+Average Word Length: 13.10
+Lexical Diversity: 68.02%
+Common Words: [('10', 19), ('care', 17), ('health', 15), ('shilajit', 10), ('condombox', 10)]
+Percentage of Stop Words: 11.82%
+Noun Count: 752
+
+URL: https://www.1mg.com/78
+Number of Sentences: 16
+Number of Words: 1333
+Average Word Length: 13.78
+Lexical Diversity: 66.54%
+Common Words: [('10', 23), ('condom', 17), ('condompacket', 15), ('condombox', 13), ('health', 12)]
+Percentage of Stop Words: 12.30%
+Noun Count: 658
+
+URL: https://www.1mg.com/79
+Number of Sentences: 16
+Number of Words: 1349
+Average Word Length: 13.37
+Lexical Diversity: 67.01%
+Common Words: [('ml', 32), ('lubricant', 21), ('50', 15), ('massage', 12), ('health', 12)]
+Percentage of Stop Words: 11.86%
+Noun Count: 658
+
+URL: https://www.1mg.com/80
+Number of Sentences: 16
+Number of Words: 1384
+Average Word Length: 13.19
+Lexical Diversity: 64.09%
+Common Words: [('1', 45), ('massager', 29), ('body', 21), ('personal', 16), ('care', 13)]
+Percentage of Stop Words: 13.01%
+Noun Count: 663
+
+URL: https://www.1mg.com/81
+Number of Sentences: 19
+Number of Words: 1407
+Average Word Length: 13.33
+Lexical Diversity: 71.57%
+Common Words: [('ml', 19), ('30', 15), ('health', 12), ('1mg', 9), ('20', 8)]
+Percentage of Stop Words: 11.66%
+Noun Count: 716
+
+URL: https://www.1mg.com/82
+Number of Sentences: 20
+Number of Words: 1460
+Average Word Length: 13.24
+Lexical Diversity: 69.59%
+Common Words: [('health', 20), ('20', 14), ('shilajit', 10), ('1mg', 9), ('gold', 9)]
+Percentage of Stop Words: 12.26%
+Noun Count: 744
+
+URL: https://www.1mg.com/83
+Number of Sentences: 17
+Number of Words: 1830
+Average Word Length: 11.58
+Lexical Diversity: 60.71%
+Common Words: [('gm', 33), ('care', 23), ('skin', 22), ('ml', 22), ('50', 17)]
+Percentage of Stop Words: 12.13%
+Noun Count: 871
+
+URL: https://www.1mg.com/84
+Number of Sentences: 18
+Number of Words: 1861
+Average Word Length: 11.44
+Lexical Diversity: 55.13%
+Common Words: [('ml', 40), ('lotion', 32), ('body', 28), ('skin', 27), ('bottle', 23)]
+Percentage of Stop Words: 13.22%
+Noun Count: 903
+
+URL: https://www.1mg.com/85
+Number of Sentences: 18
+Number of Words: 1513
+Average Word Length: 12.73
+Lexical Diversity: 62.92%
+Common Words: [('ml', 28), ('mosquito', 27), ('repellent', 19), ('antimosquito', 16), ('nature', 15)]
+Percentage of Stop Words: 11.96%
+Noun Count: 738
+
+URL: https://www.1mg.com/86
+Number of Sentences: 16
+Number of Words: 1400
+Average Word Length: 12.91
+Lexical Diversity: 65.71%
+Common Words: [('lip', 41), ('gm', 38), ('10', 12), ('health', 11), ('care', 11)]
+Percentage of Stop Words: 11.50%
+Noun Count: 718
+
+URL: https://www.1mg.com/87
+Number of Sentences: 16
+Number of Words: 1691
+Average Word Length: 11.86
+Lexical Diversity: 60.79%
+Common Words: [('face', 48), ('gm', 31), ('ml', 23), ('care', 19), ('skin', 19)]
+Percentage of Stop Words: 11.65%
+Noun Count: 823
+
+URL: https://www.1mg.com/88
+Number of Sentences: 16
+Number of Words: 1767
+Average Word Length: 11.70
+Lexical Diversity: 60.89%
+Common Words: [('body', 30), ('ml', 30), ('gm', 28), ('skin', 21), ('sensitive', 13)]
+Percentage of Stop Words: 12.39%
+Noun Count: 878
+
+URL: https://www.1mg.com/89
+Number of Sentences: 16
+Number of Words: 1688
+Average Word Length: 11.87
+Lexical Diversity: 59.36%
+Common Words: [('face', 78), ('ml', 36), ('wash', 31), ('skin', 29), ('100', 24)]
+Percentage of Stop Words: 11.73%
+Noun Count: 796
+
+URL: https://www.1mg.com/90
+Number of Sentences: 16
+Number of Words: 1835
+Average Word Length: 11.66
+Lexical Diversity: 58.53%
+Common Words: [('ml', 37), ('liquid', 18), ('pack', 17), ('surface', 15), ('disinfectant', 14)]
+Percentage of Stop Words: 11.44%
+Noun Count: 914
+
+URL: https://www.1mg.com/91
+Number of Sentences: 16
+Number of Words: 1855
+Average Word Length: 11.36
+Lexical Diversity: 55.80%
+Common Words: [('50', 57), ('spf', 54), ('sunscreen', 53), ('gm', 43), ('gel', 27)]
+Percentage of Stop Words: 10.24%
+Noun Count: 905
+
+URL: https://www.1mg.com/92
+Number of Sentences: 16
+Number of Words: 1600
+Average Word Length: 12.25
+Lexical Diversity: 57.56%
+Common Words: [('ml', 32), ('sensitive', 31), ('skin', 18), ('dry', 14), ('gm', 14)]
+Percentage of Stop Words: 13.88%
+Noun Count: 771
+
+URL: https://www.1mg.com/93
+Number of Sentences: 16
+Number of Words: 1861
+Average Word Length: 11.48
+Lexical Diversity: 60.93%
+Common Words: [('baby', 45), ('care', 29), ('gm', 17), ('wipes', 16), ('ml', 15)]
+Percentage of Stop Words: 13.06%
+Noun Count: 900
+
+URL: https://www.1mg.com/94
+Number of Sentences: 16
+Number of Words: 1652
+Average Word Length: 11.61
+Lexical Diversity: 55.02%
+Common Words: [('gm', 39), ('formula', 29), ('400', 29), ('infant', 21), ('6', 18)]
+Percentage of Stop Words: 15.07%
+Noun Count: 795
+
+URL: https://www.1mg.com/95
+Number of Sentences: 16
+Number of Words: 1550
+Average Word Length: 12.50
+Lexical Diversity: 62.26%
+Common Words: [('baby', 36), ('diaper', 27), ('size', 19), ('pants', 18), ('wipes', 13)]
+Percentage of Stop Words: 12.58%
+Noun Count: 753
+
+URL: https://www.1mg.com/96
+Number of Sentences: 17
+Number of Words: 1552
+Average Word Length: 12.28
+Lexical Diversity: 61.34%
+Common Words: [('feeding', 59), ('bottle', 30), ('ml', 20), ('1', 18), ('baby', 14)]
+Percentage of Stop Words: 11.53%
+Noun Count: 713
+
+URL: https://www.1mg.com/97
+Number of Sentences: 16
+Number of Words: 1547
+Average Word Length: 12.41
+Lexical Diversity: 61.67%
+Common Words: [('baby', 50), ('ml', 27), ('shampoo', 16), ('soap', 14), ('gentle', 13)]
+Percentage of Stop Words: 12.54%
+Noun Count: 748
+
+URL: https://www.1mg.com/98
+Number of Sentences: 16
+Number of Words: 1421
+Average Word Length: 13.00
+Lexical Diversity: 66.22%
+Common Words: [('baby', 34), ('ml', 26), ('skin', 14), ('gm', 14), ('health', 11)]
+Percentage of Stop Words: 12.46%
+Noun Count: 700
+
+URL: https://www.1mg.com/99
+Number of Sentences: 22
+Number of Words: 1426
+Average Word Length: 13.01
+Lexical Diversity: 70.13%
+Common Words: [('ml', 28), ('care', 18), ('health', 13), ('oral', 12), ('15', 9)]
+Percentage of Stop Words: 11.36%
+Noun Count: 695
+
+URL: https://www.1mg.com/100
+Number of Sentences: 16
+Number of Words: 1472
+Average Word Length: 12.92
+Lexical Diversity: 64.06%
+Common Words: [('gm', 21), ('toothpaste', 20), ('kids', 20), ('health', 13), ('1', 13)]
+Percentage of Stop Words: 12.84%
+Noun Count: 740
+
